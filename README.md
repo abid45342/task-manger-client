@@ -1,31 +1,32 @@
-Task Management Application
+##Task Management Application
 
-Description
+#Description
 
 A web-based Task Management Application that enables users to manage tasks efficiently with Firebase Authentication, real-time syncing, and drag-and-drop functionality using DnD Kit. Tasks are categorized as To-Do, In Progress, and Done.
-
+---
 Live Demo
 
-Live Application (Replace with your actual deployment link)
+Live Application [https://to-do-b072a.web.app/]
 
-Dependencies
+##Dependencies
+---
+  "devDependencies": {
+    "@eslint/js": "^9.19.0",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "daisyui": "^5.0.0-beta.8",
+    "eslint": "^9.19.0",
+    "eslint-plugin-react": "^7.37.4",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.18",
+    "globals": "^15.14.0",
+    "vite": "^6.1.0"
+  }
+---
 
-React (Vite.js)
-
-Firebase Authentication
-
-MongoDB
-
-Express.js
-
-DnD Kit (for drag-and-drop functionality)
-
-React Query (TanStack Query) for data fetching
-
-Axios
-
-Installation
-
+##Installation
+---
 Clone the repository:
 
 git clone https://github.com/your-repo/task-manager.git
@@ -46,9 +47,9 @@ VITE_MONGO_URI=your_mongo_uri
 Start the development server:
 
 npm run dev
-
-Technologies Used
-
+---
+##Technologies Used
+---
 Frontend: React (Vite.js), Tailwind CSS
 
 Backend: Express.js, MongoDB
@@ -58,3 +59,4 @@ Authentication: Firebase Authentication
 State Management: TanStack Query (React Query)
 
 Drag & Drop: DnD Kit
+---
