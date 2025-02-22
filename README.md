@@ -31,10 +31,12 @@ Clone the repository:
 ```json
 git clone https://github.com/your-repo/task-manager.git
 cd task-manager
+
 ```
 Install dependencies:
 ```json
 npm install
+
 ```
 Set up Firebase Authentication and MongoDB database.
 
