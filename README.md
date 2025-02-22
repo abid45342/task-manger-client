@@ -22,7 +22,7 @@ A web-based Task Management Application that enables users to manage tasks effic
     "globals": "^15.14.0",
     "vite": "^6.1.0"
   }
-
+```
 
 ## Installation
 
