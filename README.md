@@ -31,11 +31,11 @@ Clone the repository:
 ```json
 git clone https://github.com/your-repo/task-manager.git
 cd task-manager
-
+```
 Install dependencies:
 ```json
 npm install
-
+```
 Set up Firebase Authentication and MongoDB database.
 
 Create a .env file in the root directory and add necessary environment variables:
@@ -45,9 +45,9 @@ VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
 VITE_MONGO_URI=your_mongo_uri
 
 Start the development server:
-
+```json
 npm run dev
-
+```
 ## Technologies Used
 
 Frontend: React (Vite.js), Tailwind CSS
