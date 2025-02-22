@@ -8,7 +8,7 @@ A web-based Task Management Application that enables users to manage tasks effic
 ## Live Application [https://to-do-b072a.web.app/]
 
 ## Dependencies
----
+
   "devDependencies": {
     "@eslint/js": "^9.19.0",
     "@types/react": "^19.0.8",
@@ -22,10 +22,10 @@ A web-based Task Management Application that enables users to manage tasks effic
     "globals": "^15.14.0",
     "vite": "^6.1.0"
   }
----
+
 
 ## Installation
----
+
 Clone the repository:
 
 git clone https://github.com/your-repo/task-manager.git
@@ -46,9 +46,9 @@ VITE_MONGO_URI=your_mongo_uri
 Start the development server:
 
 npm run dev
----
+
 ## Technologies Used
----
+
 Frontend: React (Vite.js), Tailwind CSS
 
 Backend: Express.js, MongoDB
@@ -58,4 +58,3 @@ Authentication: Firebase Authentication
 State Management: TanStack Query (React Query)
 
 Drag & Drop: DnD Kit
----
