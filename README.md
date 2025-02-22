@@ -2,7 +2,7 @@
 
 ## Description
 A web-based Task Management Application that enables users to manage tasks efficiently with Firebase Authentication, real-time syncing, and drag-and-drop functionality using DnD Kit. Tasks are categorized as To-Do, In Progress, and Done.
----
+
 ## Live Demo
 
 ## Live Application [https://to-do-b072a.web.app/]
