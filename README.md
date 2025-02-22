@@ -1,6 +1,6 @@
-## Task Management Application
+# Task Management Application
 
-# Description
+## Description
 
 A web-based Task Management Application that enables users to manage tasks efficiently with Firebase Authentication, real-time syncing, and drag-and-drop functionality using DnD Kit. Tasks are categorized as To-Do, In Progress, and Done.
 ---
