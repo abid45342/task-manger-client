@@ -8,7 +8,7 @@ A web-based Task Management Application that enables users to manage tasks effic
 ## Live Application [https://to-do-b072a.web.app/]
 
 ## Dependencies
-
+```json
   "devDependencies": {
     "@eslint/js": "^9.19.0",
     "@types/react": "^19.0.8",
@@ -28,11 +28,12 @@ A web-based Task Management Application that enables users to manage tasks effic
 
 Clone the repository:
 
+```json
 git clone https://github.com/your-repo/task-manager.git
 cd task-manager
 
 Install dependencies:
-
+```json
 npm install
 
 Set up Firebase Authentication and MongoDB database.
